@@ -17,10 +17,14 @@
 ### 📌 Topics
 
 1. Interlude 0: Time & Turning
+    1. [New Year](./poetry/newyear.md) | Bei Dao
+    2. [Praise Song for the Day](./poetry/praise-song.md) | Elizabeth Alexander
+    3. [Burning the Old Year](./poetry/burning-the-oldyear.md) | Naomi Shihab Nye
+    4. [Urban Renewal](./poetry/urban-renewal.md) | Yusef Komunyakaa
 2. Beginning with Part 2: The Paradox of Sequels
 3. Interlude I: Words Renewed
 4. Beginning with Part 2: The Paradox of Sequels: Part 2
-5.  Interlude II: Worlds Renewed
+5. Interlude II: Worlds Renewed
 6. Second Time’s the Charm | Reboots & Revisions
 7. Interlude III: Mistakes and Forgiveness
 
