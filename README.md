@@ -2,7 +2,7 @@
 
 ### ？ Introductory Questions
 
-- What was your favorite book growing up? Was it part of a series?
+- What was your favourite book growing up? Was it part of a series?
 - What is the best sequel you can remember? The worst?
 - Should different authors be allowed to write book sequels?
 - Should different directors be allowed to direct movie sequels?
@@ -37,6 +37,7 @@
 ### 🔗 Useful Links
 
 Official Website: https://scholarscup.org/subjects/2020/lit-media/
-
 Quizlet Vocab set: https://quizlet.com/cn/541465432/scholars-cup-literature-vocabularies-flash-cards/
+Debate Timer: https://timer.knowscount.cc
+Avan's: https://avansalpacaresources.weebly.com
 
