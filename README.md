@@ -59,7 +59,7 @@ Official Website: https://scholarscup.org/subjects/2020/lit-media/
 
 Quizlet Vocab set: https://quizlet.com/cn/541465432/scholars-cup-literature-vocabularies-flash-cards/
 
-Debate Timer: https://timer.knowscount.cc
+Debate Timer: https://timer.knowscount.cc (source code here: https://github.com/KnowsCount/wsc-lit/tree/master/wsc-debate-timer)
 
 Avan's: https://avansalpacaresources.weebly.com
 

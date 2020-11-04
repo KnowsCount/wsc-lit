@@ -10,3 +10,7 @@ h1 {
 footer {
 	text-align: center;
 }
+
+button {
+	cursor: pointer;
+}
